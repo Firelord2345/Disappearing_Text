@@ -46,14 +46,7 @@ To get started with **The Most Dangerous Writing App** on your local machine:
 
 ## 🎨 Screenshots
 
-![Home Page](assets/home_page.png)
-*The app's home page, where you start your writing journey.*
-
-![Writing Page](assets/writing_page.png)
-*The writing page, where your focus truly gets tested!*
-
-![End Page](assets/end_page.png)
-*What happens when you stop writing...*
+*![Screenshot 2025-01-29 114453](https://github.com/user-attachments/assets/75028393-b747-4d65-9608-711f19e7e146)
 
 ## 📝 License
 
@@ -63,5 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 > **"The hardest part about writing is starting. But with this app, you won’t have the luxury of stopping."** ✍️🔥
 ```
-![Screenshot 2025-01-29 114453](https://github.com/user-attachments/assets/75028393-b747-4d65-9608-711f19e7e146)
+
 
