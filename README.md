@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 > **"The hardest part about writing is starting. But with this app, you won’t have the luxury of stopping."** ✍️🔥
-```
+
 
 
